@@ -55,7 +55,7 @@ enum class Type {
     LARGE_CONSTRAINT_LAYOUT,
     DECOUPLED_CONSTRAINT_LAYOUT,
 }
-val selectedType = Type.DECOUPLED_CONSTRAINT_LAYOUT
+val selectedType = Type.STAGGER_GRID_LAYOUT
 
 val topics = listOf(
     "Arts & Crafts", "Beauty", "Books", "Business", "Comics", "Culinary",
